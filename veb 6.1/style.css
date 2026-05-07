@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+    background-color: aliceblue;
+}
+table{
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+}
+thead{
+    background-color: darkblue;
+    color: white;
+}
+th, td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
+.badge {
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+}
+.available{
+    background-color: chartreuse;
+}
