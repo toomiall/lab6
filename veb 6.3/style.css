@@ -1,0 +1,21 @@
+.basliq{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+.home{
+    background: none;
+    border:none;
+    color:white;
+    margin-right: 20px;
+    font-size:15px;
+}
+.logn{
+    background-color: transparent;
+    color:white;
+    border: 1px solid white;
+    padding: 5px 15px;
+    border-radius: 4px;
+}
