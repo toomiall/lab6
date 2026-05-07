@@ -1,0 +1,31 @@
+.duyme{
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    background-color:darkgrey
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    border:none;
+}
+.normal{
+    background-color: blue;
+    color: white;
+}
+.Outline{
+    background-color: transparent;
+    color:aqua;
+    border: 2px solid;
+}
+.ugur{
+    background-color: darkgreen;
+    color:white;
+}
+.tehluke{
+    background-color: brown;
+    color: white;
+}
